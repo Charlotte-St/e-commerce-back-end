@@ -16,6 +16,8 @@ An API client is required for making calls to the API. The repo was developed us
 
 First, users will need to populate the .env file with the database name and their PostgreSQL username and password. Next, users should run the db\schema.sql file to create the database schema. Next, users should use the command 'npm run seed' to seed the database tables. After using node to start the server, an API client is used to make calls to the API. The routes can handle GET, POST, PUT, and DELETE. Information about how to structure those calls and the endpoints are available in the api folder under routes. 
 
+[Usage Demo](https://drive.google.com/file/d/10q9aP1HIX6y3skfkCJ_XlN62wN-fSEA0/view?usp=sharing)
+
 ## Testing
 
 N/A
