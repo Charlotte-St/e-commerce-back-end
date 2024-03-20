@@ -4,6 +4,8 @@
 
 ## Description
 
+This app allows users to manage products, tags, and categories for an e-commerce site on the back end using API calls. A user can get data, add data, update data, and delete data from tables of products, tags, and categories. 
+
 ## Installation
 
 This app requires the installation of Node.js and NPM. Additionally, Express, Sequelize, dotenv, and pg are dependencies. A PostgreSQL database is used for this project. 
